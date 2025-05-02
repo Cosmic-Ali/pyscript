@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: imshow
+Version: 0.1.0
+Summary: A simple Python package as an alternative for cv2.imshow for Mac OS
+Author: Mirza Ali Jaffer
+Requires-Python: >=3.6

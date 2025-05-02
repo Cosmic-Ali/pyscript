@@ -1,0 +1,5 @@
+setup.py
+imshow.egg-info/PKG-INFO
+imshow.egg-info/SOURCES.txt
+imshow.egg-info/dependency_links.txt
+imshow.egg-info/top_level.txt

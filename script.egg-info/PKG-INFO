@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: script
+Version: 0.1.0
+Summary: A simple Python package that creates and executes python script files.' 
+Author: Mirza Ali Jaffer
+Requires-Python: >=3.6

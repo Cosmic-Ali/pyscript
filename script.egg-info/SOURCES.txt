@@ -1,0 +1,6 @@
+pyscript.py
+setup.py
+script.egg-info/PKG-INFO
+script.egg-info/SOURCES.txt
+script.egg-info/dependency_links.txt
+script.egg-info/top_level.txt
