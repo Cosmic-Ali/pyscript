@@ -1,3 +1,25 @@
+'''Description: This function takes a python code, and runs it in a py file using another subprocess,
+and then deletes that file after execution.
+
+Parameters: 
+
+positional argument - code
+    Input the code that you want to run as the only argument in the function.
+
+keyword argument - del_script
+    By default, del_script = False. This deletes the script upon completion of execution.
+    Enter True to return path of the saved script
+
+
+Note- 1. Include all the requirements/libraries (eg: import cv2) within the code.
+
+      2. If you are including cv2.imshow(), make sure you also include cv2.waitkey(time)
+         and do not leave it's argument empty, nor keep 0. And then include, cv2.DestroyAllWindows()
+
+         When viewing a video, make sure to assign a quit key, to quit the loop
+
+'''
+
 import os
 
 # def imshow(code):
